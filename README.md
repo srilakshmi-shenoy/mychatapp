@@ -4,6 +4,8 @@ This is a small chat application built using Flutter and Firebase. The app allow
 
 ##Screenshots
 
-![Screenshot of Chat app_1](https://github.com/srilakshmi-shenoy/BMI-Calculator/blob/cf84904cb100f9cef4a38cbbd90353a0c3e04338/screenshots.png)
+![Screenshot of Chat app_1](https://github.com/srilakshmi-shenoy/mychatapp/blob/4d11bfe7bf2337abd3523e7308a22868e7f86e4d/chatapp_ss.png)
+![Screenshot of Chat app_2](https://github.com/srilakshmi-shenoy/mychatapp/blob/4d11bfe7bf2337abd3523e7308a22868e7f86e4d/chatapp_ss2.png)
+
 
 
