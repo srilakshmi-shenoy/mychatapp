@@ -1,16 +1,9 @@
-# mychatapp
+# MYCHATAPP
 
-A new Flutter project.
+This is a small chat application built using Flutter and Firebase. The app allows users to register and sign in, change themes between light and dark modes, and view all available users for chatting. Messages and user details are stored in Firestore for seamless real-time communication.
 
-## Getting Started
+##Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot of Chat app_1](https://github.com/srilakshmi-shenoy/BMI-Calculator/blob/cf84904cb100f9cef4a38cbbd90353a0c3e04338/screenshots.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
